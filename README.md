@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">text</p>
+<!-- <p align="left">text</p> -->
 
 ###
 
