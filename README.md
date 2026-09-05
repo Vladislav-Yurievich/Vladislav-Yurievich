@@ -19,7 +19,7 @@
 <!-- <p align="left">text</p> -->
 
 ###
-
+<!-- 
 <h3 align="left">🛠 Stack:</h3>
 
 ###
@@ -47,3 +47,4 @@
 </div>
 
 ###
+-->
